@@ -1,0 +1,16 @@
+START
+ID	AROTerms
+mapfile	/disk/delphi/users/tcickovs/PluMA/pipelines/expansionCategories/RNAseq/other_pipelines/small/PanACEA/PanACEA/aro_centroid.list.txt
+ontology	/disk/delphi/users/tcickovs/PluMA/pipelines/expansionCategories/RNAseq/other_pipelines/small/PanACEA/PanACEA/aro.obo
+name	Antibiotic Resistance
+color	ff0000
+END
+
+START
+ID	GOTerms
+mapfile	/disk/delphi/users/tcickovs/PluMA/pipelines/expansionCategories/RNAseq/other_pipelines/small/PanACEA/PanACEA/centroids.mapterm.txt
+ontology	/disk/delphi/users/tcickovs/PluMA/pipelines/expansionCategories/RNAseq/other_pipelines/small/PanACEA/PanACEA/gene_ontology.1_2.obo
+name	/disk/delphi/users/tcickovs/PluMA/pipelines/expansionCategories/RNAseq/other_pipelines/small/PanACEA/PanACEA/centroids.cluster_roles.txt
+color	/disk/delphi/users/tcickovs/PluMA/pipelines/expansionCategories/RNAseq/other_pipelines/small/PanACEA/PanACEA//cluster_colors.txt
+END
+

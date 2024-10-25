@@ -1,0 +1,5 @@
+Prefix pipelines/PanACEA/
+#Plugin FlatFile inputfile parameters/parameters.flatfile.txt outputfile example_dir/PanACEA.flatfile.txt
+#Plugin RGI inputfile example_dir/dataSummary.txt outputfile example_dir/aro_centroid.list.txt
+#Plugin Ontology inputfile parameters/parameters.ontology.txt outputfile example_dir/
+Plugin PanChromosome inputfile parameters/parameters.panchromosome.txt outputfile example_dir/
